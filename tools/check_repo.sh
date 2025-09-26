@@ -12,3 +12,4 @@ if ! git describe --tags; then
 
 	exit 1
 fi
+s
